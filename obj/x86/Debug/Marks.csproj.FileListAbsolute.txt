@@ -1,0 +1,10 @@
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA 4\PRAC_4_Change_the_name_of_this_folder\Marks\bin\Debug\Marks.exe
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA 4\PRAC_4_Change_the_name_of_this_folder\Marks\bin\Debug\Marks.pdb
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA 4\PRAC_4_Change_the_name_of_this_folder\Marks\obj\x86\Debug\Marks.exe
+C:\Users\Daniel Moreno\Documents\1_T1\FonamentsProgramacio\PA 4\PRAC_4_Change_the_name_of_this_folder\Marks\obj\x86\Debug\Marks.pdb
+C:\Users\Daniel\Desktop\PA-4\Moreno_Bernal_Daniel\Marks\bin\Debug\Marks.exe
+C:\Users\Daniel\Desktop\PA-4\Moreno_Bernal_Daniel\Marks\bin\Debug\Marks.pdb
+C:\Users\Daniel\Desktop\PA-4\Moreno_Bernal_Daniel\Marks\obj\x86\Debug\Marks.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PA-4\Moreno_Bernal_Daniel\Marks\obj\x86\Debug\Marks.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PA-4\Moreno_Bernal_Daniel\Marks\obj\x86\Debug\Marks.exe
+C:\Users\Daniel\Desktop\PA-4\Moreno_Bernal_Daniel\Marks\obj\x86\Debug\Marks.pdb
